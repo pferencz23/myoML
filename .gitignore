@@ -4,3 +4,7 @@
 .DS_Store
 
 /venv
+/notebooks/.ipynb_checkpoints
+/notebooks/playground
+
+__pycache__/
