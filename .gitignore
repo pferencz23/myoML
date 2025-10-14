@@ -1,0 +1,4 @@
+/data/training_data
+*.csv
+*.npy
+.DS_Store
